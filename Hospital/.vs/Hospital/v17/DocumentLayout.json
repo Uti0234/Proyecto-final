@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cesia\\source\\repos\\Hospital\\",
+  "WorkspaceRootPath": "C:\\Users\\darol\\OneDrive\\Escritorio\\proyecto final 1\\Proyecto-final\\Hospital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|c:\\users\\cesia\\source\\repos\\hospital\\hospital\\presentacion\\frm_tablagestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|c:\\users\\darol\\onedrive\\escritorio\\proyecto final 1\\proyecto-final\\hospital\\hospital\\presentacion\\frm_tablagestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|solutionrelative:hospital\\presentacion\\frm_tablagestiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|C:\\Users\\cesia\\source\\repos\\Hospital\\hospital\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|c:\\users\\darol\\onedrive\\escritorio\\proyecto final 1\\proyecto-final\\hospital\\hospital\\presentacion\\frnpagoempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|solutionrelative:hospital\\presentacion\\frnpagoempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|C:\\Users\\darol\\OneDrive\\Escritorio\\proyecto final 1\\Proyecto-final\\Hospital\\hospital\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|solutionrelative:hospital\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|c:\\users\\cesia\\source\\repos\\hospital\\hospital\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|C:\\Users\\darol\\OneDrive\\Escritorio\\proyecto final 1\\Proyecto-final\\Hospital\\hospital\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|solutionrelative:hospital\\seguridad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|C:\\Users\\cesia\\source\\repos\\Hospital\\hospital\\datos\\cdconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|C:\\Users\\darol\\OneDrive\\Escritorio\\proyecto final 1\\Proyecto-final\\Hospital\\hospital\\datos\\cdconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A0C4F25-E1EE-41F1-A855-93B648779D65}|Hospital\\Hospital.csproj|solutionrelative:hospital\\datos\\cdconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,15 +30,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FRNpagoempleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\darol\\OneDrive\\Escritorio\\proyecto final 1\\Proyecto-final\\Hospital\\Hospital\\Presentacion\\FRNpagoempleados.cs",
+              "RelativeDocumentMoniker": "Hospital\\Presentacion\\FRNpagoempleados.cs",
+              "ToolTip": "C:\\Users\\darol\\OneDrive\\Escritorio\\proyecto final 1\\Proyecto-final\\Hospital\\Hospital\\Presentacion\\FRNpagoempleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Hospital\\Presentacion\\FRNpagoempleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:48:40.849Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Frm_TablaGestiones.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\cesia\\source\\repos\\Hospital\\Hospital\\Presentacion\\Frm_TablaGestiones.cs",
+              "DocumentMoniker": "C:\\Users\\darol\\OneDrive\\Escritorio\\proyecto final 1\\Proyecto-final\\Hospital\\Hospital\\Presentacion\\Frm_TablaGestiones.cs",
               "RelativeDocumentMoniker": "Hospital\\Presentacion\\Frm_TablaGestiones.cs",
-              "ToolTip": "C:\\Users\\cesia\\source\\repos\\Hospital\\Hospital\\Presentacion\\Frm_TablaGestiones.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\darol\\OneDrive\\Escritorio\\proyecto final 1\\Proyecto-final\\Hospital\\Hospital\\Presentacion\\Frm_TablaGestiones.cs [Dise\u00F1o]",
               "RelativeToolTip": "Hospital\\Presentacion\\Frm_TablaGestiones.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T05:20:40.917Z",
@@ -42,41 +62,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CDconexion.cs",
-              "DocumentMoniker": "C:\\Users\\cesia\\source\\repos\\Hospital\\Hospital\\Datos\\CDconexion.cs",
+              "DocumentMoniker": "C:\\Users\\darol\\OneDrive\\Escritorio\\proyecto final 1\\Proyecto-final\\Hospital\\Hospital\\Datos\\CDconexion.cs",
               "RelativeDocumentMoniker": "Hospital\\Datos\\CDconexion.cs",
-              "ToolTip": "C:\\Users\\cesia\\source\\repos\\Hospital\\Hospital\\Datos\\CDconexion.cs",
+              "ToolTip": "C:\\Users\\darol\\OneDrive\\Escritorio\\proyecto final 1\\Proyecto-final\\Hospital\\Hospital\\Datos\\CDconexion.cs",
               "RelativeToolTip": "Hospital\\Datos\\CDconexion.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T14:48:57.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\cesia\\source\\repos\\Hospital\\Hospital\\Seguridad\\Login.cs",
-              "RelativeDocumentMoniker": "Hospital\\Seguridad\\Login.cs",
-              "ToolTip": "C:\\Users\\cesia\\source\\repos\\Hospital\\Hospital\\Seguridad\\Login.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Hospital\\Seguridad\\Login.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T14:46:14.991Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-10T14:48:57.91Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\cesia\\source\\repos\\Hospital\\Hospital\\Seguridad\\Login.cs",
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\darol\\OneDrive\\Escritorio\\proyecto final 1\\Proyecto-final\\Hospital\\Hospital\\Seguridad\\Login.cs",
               "RelativeDocumentMoniker": "Hospital\\Seguridad\\Login.cs",
-              "ToolTip": "C:\\Users\\cesia\\source\\repos\\Hospital\\Hospital\\Seguridad\\Login.cs",
+              "ToolTip": "C:\\Users\\cesia\\source\\repos\\Hospital\\Hospital\\Seguridad\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\cesia\\source\\repos\\Hospital\\Hospital\\Seguridad\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:46:14.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\darol\\OneDrive\\Escritorio\\proyecto final 1\\Proyecto-final\\Hospital\\Hospital\\Seguridad\\Login.cs",
+              "RelativeDocumentMoniker": "Hospital\\Seguridad\\Login.cs",
+              "ToolTip": "C:\\Users\\darol\\OneDrive\\Escritorio\\proyecto final 1\\Proyecto-final\\Hospital\\Hospital\\Seguridad\\Login.cs",
               "RelativeToolTip": "Hospital\\Seguridad\\Login.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAewF0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T04:15:28.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T04:15:28.174Z"
             }
           ]
         }
