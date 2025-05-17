@@ -80,6 +80,7 @@
             this.txtContra.Size = new System.Drawing.Size(429, 20);
             this.txtContra.TabIndex = 2;
             this.txtContra.Text = "CONTRASEÑA";
+            this.txtContra.TextChanged += new System.EventHandler(this.txtContra_TextChanged);
             this.txtContra.Enter += new System.EventHandler(this.txtContra_Enter);
             this.txtContra.Leave += new System.EventHandler(this.txtContra_Leave);
             // 

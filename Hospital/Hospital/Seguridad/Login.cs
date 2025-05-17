@@ -93,5 +93,10 @@ namespace Hospital
             ReleaseCapture();
             SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
+
+        private void txtContra_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
